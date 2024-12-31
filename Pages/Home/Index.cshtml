@@ -1,0 +1,114 @@
+@page
+@model Home.IndexModel
+@{
+    ViewData["Title"] = "Google Text-to-Speech App";
+}
+<h2>@ViewData["Title"]</h2>
+
+<div class="container">
+    <!-- Khung Input -->
+    <div class="input-section">
+        <h3>Nhập văn bản bạn cần chuyển đổi:</h3>
+        <form method="post" asp-page-handler="ConvertText">
+            <div class="form-group">
+                <label for="inputText">Văn bản:</label>
+                <textarea id="inputText" name="inputText" class="form-control" rows="2" placeholder="Nhập văn bản..."
+                    required></textarea>
+            </div>
+
+            <div class="form-group">
+                <label for="language">Ngôn ngữ:</label>
+                <select id="language" name="language" class="form-control">
+                    <option value="en-US">Tiếng Anh</option>
+                    <option value="vi-VN">Tiếng Việt</option>
+                    <option value="fr-FR">Tiếng Pháp</option>
+                    <option value="es-ES">Tiếng Tây Ban Nha</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label for="gender">Giới tính giọng nói:</label>
+                <select id="gender" name="gender" class="form-control">
+                    <option value="MALE">Nam</option>
+                    <option value="FEMALE">Nữ</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label for="speed">Tốc độ đọc:</label>
+                <select id="speed" name="speed" class="form-control">
+                    <option value="0.75">Chậm</option>
+                    <option value="1.0">Bình thường</option>
+                    <option value="1.25">Nhanh</option>
+                </select>
+            </div>
+
+            <button type="submit" id="convertButton" class="btn btn-primary">Chuyển đổi</button>
+        </form>
+    </div>
+
+    <!-- Khung Output -->
+    <div class="output-section" id="outputSection" style="opacity: 0.5; pointer-events: none;">
+        <h3>Kết quả chuyển đổi:</h3>
+        <p>Chuyển đổi hoàn tất! Bạn có thể nghe hoặc tải xuống tệp âm thanh:</p>
+        <audio controls class="audio-player">
+            <source src="/audio/@Model.AudioFileName" type="audio/mpeg">
+            Trình duyệt của bạn không hỗ trợ phát âm thanh.
+        </audio>
+        <div class="button-group mt-3">
+            <a asp-page-handler="DownloadFile" asp-route-fileName="@Model.AudioFileName" class="btn btn-success">Tải
+                về</a>
+        </div>
+    </div>
+</div>
+
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+        const outputSection = document.getElementById("outputSection");
+        const audioFileName = "@Model.AudioFileName";
+
+        // Kiểm tra trạng thái từ server, nếu có AudioFileName thì bật khung output
+        if (audioFileName && audioFileName.trim() !== "") {
+            outputSection.style.opacity = "1";
+            outputSection.style.pointerEvents = "all";
+        }
+    });
+</script>
+
+<style>
+    .container {
+        display: flex;
+        justify-content: space-between;
+        align-items: flex-start;
+        gap: 2rem;
+        margin: 2rem auto;
+    }
+
+    .input-section,
+    .output-section {
+        flex: 1;
+        border: 1px solid #ccc;
+        border-radius: 8px;
+        padding: 1.5rem;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    }
+
+    .output-section {
+        background-color: #f9f9f9;
+        transition: opacity 0.3s ease-in-out;
+    }
+
+    .form-group {
+        margin-bottom: 1rem;
+    }
+
+    .btn {
+        display: block;
+        width: 100%;
+    }
+
+    .audio-player {
+        width: 100%;
+        margin-top: 1rem;
+    }
+</style>
