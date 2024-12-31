@@ -121,3 +121,8 @@ D:\GoogleTextToSpeechApp\obj\Debug\net8.0\refint\GoogleTextToSpeechApp.dll
 D:\GoogleTextToSpeechApp\obj\Debug\net8.0\GoogleTextToSpeechApp.pdb
 D:\GoogleTextToSpeechApp\obj\Debug\net8.0\GoogleTextToSpeechApp.genruntimeconfig.cache
 D:\GoogleTextToSpeechApp\obj\Debug\net8.0\ref\GoogleTextToSpeechApp.dll
+D:\GoogleTextToSpeechApp\bin\Debug\net8.0\publish\web.config
+D:\GoogleTextToSpeechApp\bin\Debug\net8.0\publish\appsettings.Development.json
+D:\GoogleTextToSpeechApp\bin\Debug\net8.0\publish\appsettings.json
+D:\GoogleTextToSpeechApp\bin\Debug\net8.0\publish\GoogleTextToSpeechApp.deps.json
+D:\GoogleTextToSpeechApp\bin\Debug\net8.0\publish\GoogleTextToSpeechApp.runtimeconfig.json
