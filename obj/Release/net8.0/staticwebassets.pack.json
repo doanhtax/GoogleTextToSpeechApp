@@ -1,527 +1,275 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\NGUYEN DO ANH TAI\\GoogleTextToSpeechApp\\obj\\Release\\net8.0\\scopedcss\\projectbundle\\GoogleTextToSpeechApp.bundle.scp.css",
+      "Id": "D:\\GoogleTextToSpeechApp\\obj\\Release\\net8.0\\scopedcss\\projectbundle\\GoogleTextToSpeechApp.bundle.scp.css",
       "PackagePath": "staticwebassets\\GoogleTextToSpeechApp.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\NGUYEN DO ANH TAI\\GoogleTextToSpeechApp\\wwwroot\\audio\\output-0215f0e8-ae26-4aea-8d2e-8ae9122c2180.mp3",
-      "PackagePath": "staticwebassets\\audio\\output-0215f0e8-ae26-4aea-8d2e-8ae9122c2180.mp3"
+      "Id": "D:\\GoogleTextToSpeechApp\\wwwroot\\audio\\output-0d548463-49a3-4ab8-9277-fe1baa3b8eb6.mp3",
+      "PackagePath": "staticwebassets\\audio\\output-0d548463-49a3-4ab8-9277-fe1baa3b8eb6.mp3"
     },
     {
-      "Id": "C:\\Users\\NGUYEN DO ANH TAI\\GoogleTextToSpeechApp\\wwwroot\\audio\\output-065f4085-bf49-4fc3-9349-67742dbff3a7.mp3",
-      "PackagePath": "staticwebassets\\audio\\output-065f4085-bf49-4fc3-9349-67742dbff3a7.mp3"
+      "Id": "D:\\GoogleTextToSpeechApp\\wwwroot\\audio\\output-699464cf-ee66-4fd4-8e9e-f7baa94e4daf.mp3",
+      "PackagePath": "staticwebassets\\audio\\output-699464cf-ee66-4fd4-8e9e-f7baa94e4daf.mp3"
     },
     {
-      "Id": "C:\\Users\\NGUYEN DO ANH TAI\\GoogleTextToSpeechApp\\wwwroot\\audio\\output-0883ca57-0a2b-4c9b-b356-1f7ceb0e1549.mp3",
-      "PackagePath": "staticwebassets\\audio\\output-0883ca57-0a2b-4c9b-b356-1f7ceb0e1549.mp3"
+      "Id": "D:\\GoogleTextToSpeechApp\\wwwroot\\audio\\output-7aa535d6-296c-4bf6-9d30-667f3a60e9e5.mp3",
+      "PackagePath": "staticwebassets\\audio\\output-7aa535d6-296c-4bf6-9d30-667f3a60e9e5.mp3"
     },
     {
-      "Id": "C:\\Users\\NGUYEN DO ANH TAI\\GoogleTextToSpeechApp\\wwwroot\\audio\\output-09ff5266-b88e-4ad6-b950-7b6679eba547.mp3",
-      "PackagePath": "staticwebassets\\audio\\output-09ff5266-b88e-4ad6-b950-7b6679eba547.mp3"
+      "Id": "D:\\GoogleTextToSpeechApp\\wwwroot\\audio\\output-8a6ddafc-8bbe-4c06-9de5-850f79aee63e.mp3",
+      "PackagePath": "staticwebassets\\audio\\output-8a6ddafc-8bbe-4c06-9de5-850f79aee63e.mp3"
     },
     {
-      "Id": "C:\\Users\\NGUYEN DO ANH TAI\\GoogleTextToSpeechApp\\wwwroot\\audio\\output-0b8e8577-bb77-45c8-b08e-0249aa40048e.mp3",
-      "PackagePath": "staticwebassets\\audio\\output-0b8e8577-bb77-45c8-b08e-0249aa40048e.mp3"
+      "Id": "D:\\GoogleTextToSpeechApp\\wwwroot\\audio\\output-d4d7554c-7cb3-48e2-8e25-07dc5e932d48.mp3",
+      "PackagePath": "staticwebassets\\audio\\output-d4d7554c-7cb3-48e2-8e25-07dc5e932d48.mp3"
     },
     {
-      "Id": "C:\\Users\\NGUYEN DO ANH TAI\\GoogleTextToSpeechApp\\wwwroot\\audio\\output-0c3a0daa-014b-4a03-87d2-39fa566addad.mp3",
-      "PackagePath": "staticwebassets\\audio\\output-0c3a0daa-014b-4a03-87d2-39fa566addad.mp3"
-    },
-    {
-      "Id": "C:\\Users\\NGUYEN DO ANH TAI\\GoogleTextToSpeechApp\\wwwroot\\audio\\output-1060bcdc-ec84-43ef-bea9-553839f43bc0.mp3",
-      "PackagePath": "staticwebassets\\audio\\output-1060bcdc-ec84-43ef-bea9-553839f43bc0.mp3"
-    },
-    {
-      "Id": "C:\\Users\\NGUYEN DO ANH TAI\\GoogleTextToSpeechApp\\wwwroot\\audio\\output-116c1410-b47a-4960-873d-fa857f5db7a0.mp3",
-      "PackagePath": "staticwebassets\\audio\\output-116c1410-b47a-4960-873d-fa857f5db7a0.mp3"
-    },
-    {
-      "Id": "C:\\Users\\NGUYEN DO ANH TAI\\GoogleTextToSpeechApp\\wwwroot\\audio\\output-14eb0204-83db-4858-81dc-52bf696a25fb.mp3",
-      "PackagePath": "staticwebassets\\audio\\output-14eb0204-83db-4858-81dc-52bf696a25fb.mp3"
-    },
-    {
-      "Id": "C:\\Users\\NGUYEN DO ANH TAI\\GoogleTextToSpeechApp\\wwwroot\\audio\\output-1a0502d1-d90f-4394-9d3d-719f6519851a.mp3",
-      "PackagePath": "staticwebassets\\audio\\output-1a0502d1-d90f-4394-9d3d-719f6519851a.mp3"
-    },
-    {
-      "Id": "C:\\Users\\NGUYEN DO ANH TAI\\GoogleTextToSpeechApp\\wwwroot\\audio\\output-1e997048-3442-4d6b-850a-f3f017d5ec98.mp3",
-      "PackagePath": "staticwebassets\\audio\\output-1e997048-3442-4d6b-850a-f3f017d5ec98.mp3"
-    },
-    {
-      "Id": "C:\\Users\\NGUYEN DO ANH TAI\\GoogleTextToSpeechApp\\wwwroot\\audio\\output-22f28cdf-4cc0-4b1b-8bfa-6d1bcac25b50.mp3",
-      "PackagePath": "staticwebassets\\audio\\output-22f28cdf-4cc0-4b1b-8bfa-6d1bcac25b50.mp3"
-    },
-    {
-      "Id": "C:\\Users\\NGUYEN DO ANH TAI\\GoogleTextToSpeechApp\\wwwroot\\audio\\output-2634eed4-cc40-4b5c-b871-cee49e89b042.mp3",
-      "PackagePath": "staticwebassets\\audio\\output-2634eed4-cc40-4b5c-b871-cee49e89b042.mp3"
-    },
-    {
-      "Id": "C:\\Users\\NGUYEN DO ANH TAI\\GoogleTextToSpeechApp\\wwwroot\\audio\\output-2c2f093a-5f96-4a9c-8aa9-c36f651abc82.mp3",
-      "PackagePath": "staticwebassets\\audio\\output-2c2f093a-5f96-4a9c-8aa9-c36f651abc82.mp3"
-    },
-    {
-      "Id": "C:\\Users\\NGUYEN DO ANH TAI\\GoogleTextToSpeechApp\\wwwroot\\audio\\output-2ca5e6d7-20d6-464d-a335-23511d6c3e8b.mp3",
-      "PackagePath": "staticwebassets\\audio\\output-2ca5e6d7-20d6-464d-a335-23511d6c3e8b.mp3"
-    },
-    {
-      "Id": "C:\\Users\\NGUYEN DO ANH TAI\\GoogleTextToSpeechApp\\wwwroot\\audio\\output-3e2267ea-b21f-4450-b2f9-6cb4978a8e89.mp3",
-      "PackagePath": "staticwebassets\\audio\\output-3e2267ea-b21f-4450-b2f9-6cb4978a8e89.mp3"
-    },
-    {
-      "Id": "C:\\Users\\NGUYEN DO ANH TAI\\GoogleTextToSpeechApp\\wwwroot\\audio\\output-415998f8-b26d-40d4-8fa3-601325f61eba.mp3",
-      "PackagePath": "staticwebassets\\audio\\output-415998f8-b26d-40d4-8fa3-601325f61eba.mp3"
-    },
-    {
-      "Id": "C:\\Users\\NGUYEN DO ANH TAI\\GoogleTextToSpeechApp\\wwwroot\\audio\\output-42d9bcdd-cb49-4287-b695-4c7802c6272d.mp3",
-      "PackagePath": "staticwebassets\\audio\\output-42d9bcdd-cb49-4287-b695-4c7802c6272d.mp3"
-    },
-    {
-      "Id": "C:\\Users\\NGUYEN DO ANH TAI\\GoogleTextToSpeechApp\\wwwroot\\audio\\output-49a2af83-071d-45c3-8f1a-ad936f2b842c.mp3",
-      "PackagePath": "staticwebassets\\audio\\output-49a2af83-071d-45c3-8f1a-ad936f2b842c.mp3"
-    },
-    {
-      "Id": "C:\\Users\\NGUYEN DO ANH TAI\\GoogleTextToSpeechApp\\wwwroot\\audio\\output-550d82ff-5b61-40ea-81ca-cfed154ac33a.mp3",
-      "PackagePath": "staticwebassets\\audio\\output-550d82ff-5b61-40ea-81ca-cfed154ac33a.mp3"
-    },
-    {
-      "Id": "C:\\Users\\NGUYEN DO ANH TAI\\GoogleTextToSpeechApp\\wwwroot\\audio\\output-5bb80577-d692-4383-87fb-d8d998f45efe.mp3",
-      "PackagePath": "staticwebassets\\audio\\output-5bb80577-d692-4383-87fb-d8d998f45efe.mp3"
-    },
-    {
-      "Id": "C:\\Users\\NGUYEN DO ANH TAI\\GoogleTextToSpeechApp\\wwwroot\\audio\\output-5d7871a7-1beb-4f30-9396-f5cbcf59bda0.mp3",
-      "PackagePath": "staticwebassets\\audio\\output-5d7871a7-1beb-4f30-9396-f5cbcf59bda0.mp3"
-    },
-    {
-      "Id": "C:\\Users\\NGUYEN DO ANH TAI\\GoogleTextToSpeechApp\\wwwroot\\audio\\output-5d80970c-c538-4024-ab80-3d80dcb615cc.mp3",
-      "PackagePath": "staticwebassets\\audio\\output-5d80970c-c538-4024-ab80-3d80dcb615cc.mp3"
-    },
-    {
-      "Id": "C:\\Users\\NGUYEN DO ANH TAI\\GoogleTextToSpeechApp\\wwwroot\\audio\\output-661f9235-afa3-41b1-b91e-3122f89ad0a7.mp3",
-      "PackagePath": "staticwebassets\\audio\\output-661f9235-afa3-41b1-b91e-3122f89ad0a7.mp3"
-    },
-    {
-      "Id": "C:\\Users\\NGUYEN DO ANH TAI\\GoogleTextToSpeechApp\\wwwroot\\audio\\output-671bdaf8-79c2-441e-848b-1cd3be6b30b4.mp3",
-      "PackagePath": "staticwebassets\\audio\\output-671bdaf8-79c2-441e-848b-1cd3be6b30b4.mp3"
-    },
-    {
-      "Id": "C:\\Users\\NGUYEN DO ANH TAI\\GoogleTextToSpeechApp\\wwwroot\\audio\\output-68fac07f-608b-45d5-9e62-1e036490f353.mp3",
-      "PackagePath": "staticwebassets\\audio\\output-68fac07f-608b-45d5-9e62-1e036490f353.mp3"
-    },
-    {
-      "Id": "C:\\Users\\NGUYEN DO ANH TAI\\GoogleTextToSpeechApp\\wwwroot\\audio\\output-6d73c931-489f-43a4-8e59-7641462dd1c0.mp3",
-      "PackagePath": "staticwebassets\\audio\\output-6d73c931-489f-43a4-8e59-7641462dd1c0.mp3"
-    },
-    {
-      "Id": "C:\\Users\\NGUYEN DO ANH TAI\\GoogleTextToSpeechApp\\wwwroot\\audio\\output-7144cee6-8c0b-443f-b5ef-297ebbfac0e2.mp3",
-      "PackagePath": "staticwebassets\\audio\\output-7144cee6-8c0b-443f-b5ef-297ebbfac0e2.mp3"
-    },
-    {
-      "Id": "C:\\Users\\NGUYEN DO ANH TAI\\GoogleTextToSpeechApp\\wwwroot\\audio\\output-7285cc31-3ab7-403c-9fc3-33e3899e395e.mp3",
-      "PackagePath": "staticwebassets\\audio\\output-7285cc31-3ab7-403c-9fc3-33e3899e395e.mp3"
-    },
-    {
-      "Id": "C:\\Users\\NGUYEN DO ANH TAI\\GoogleTextToSpeechApp\\wwwroot\\audio\\output-7495b233-b7a2-4bcb-bea6-a15c7f9220cf.mp3",
-      "PackagePath": "staticwebassets\\audio\\output-7495b233-b7a2-4bcb-bea6-a15c7f9220cf.mp3"
-    },
-    {
-      "Id": "C:\\Users\\NGUYEN DO ANH TAI\\GoogleTextToSpeechApp\\wwwroot\\audio\\output-755af449-226f-4a55-b20b-d2ea985ff4dc.mp3",
-      "PackagePath": "staticwebassets\\audio\\output-755af449-226f-4a55-b20b-d2ea985ff4dc.mp3"
-    },
-    {
-      "Id": "C:\\Users\\NGUYEN DO ANH TAI\\GoogleTextToSpeechApp\\wwwroot\\audio\\output-7ec080d1-8c7a-4d28-961d-73e310030669.mp3",
-      "PackagePath": "staticwebassets\\audio\\output-7ec080d1-8c7a-4d28-961d-73e310030669.mp3"
-    },
-    {
-      "Id": "C:\\Users\\NGUYEN DO ANH TAI\\GoogleTextToSpeechApp\\wwwroot\\audio\\output-809299b5-a10c-471a-9f5d-4c458e2c0598.mp3",
-      "PackagePath": "staticwebassets\\audio\\output-809299b5-a10c-471a-9f5d-4c458e2c0598.mp3"
-    },
-    {
-      "Id": "C:\\Users\\NGUYEN DO ANH TAI\\GoogleTextToSpeechApp\\wwwroot\\audio\\output-8328a934-4d15-437b-a76c-821304d9500e.mp3",
-      "PackagePath": "staticwebassets\\audio\\output-8328a934-4d15-437b-a76c-821304d9500e.mp3"
-    },
-    {
-      "Id": "C:\\Users\\NGUYEN DO ANH TAI\\GoogleTextToSpeechApp\\wwwroot\\audio\\output-87a77966-4a1d-4d3a-97c0-1a38d7d579e0.mp3",
-      "PackagePath": "staticwebassets\\audio\\output-87a77966-4a1d-4d3a-97c0-1a38d7d579e0.mp3"
-    },
-    {
-      "Id": "C:\\Users\\NGUYEN DO ANH TAI\\GoogleTextToSpeechApp\\wwwroot\\audio\\output-88c965c4-88c4-4fd5-9436-5f5d7ed0bfb9.mp3",
-      "PackagePath": "staticwebassets\\audio\\output-88c965c4-88c4-4fd5-9436-5f5d7ed0bfb9.mp3"
-    },
-    {
-      "Id": "C:\\Users\\NGUYEN DO ANH TAI\\GoogleTextToSpeechApp\\wwwroot\\audio\\output-8a1706bd-f65d-463e-ba05-7ab51a3a5c92.mp3",
-      "PackagePath": "staticwebassets\\audio\\output-8a1706bd-f65d-463e-ba05-7ab51a3a5c92.mp3"
-    },
-    {
-      "Id": "C:\\Users\\NGUYEN DO ANH TAI\\GoogleTextToSpeechApp\\wwwroot\\audio\\output-91db3033-2733-4b69-ab2d-84bc5fb77146.mp3",
-      "PackagePath": "staticwebassets\\audio\\output-91db3033-2733-4b69-ab2d-84bc5fb77146.mp3"
-    },
-    {
-      "Id": "C:\\Users\\NGUYEN DO ANH TAI\\GoogleTextToSpeechApp\\wwwroot\\audio\\output-935fcb9b-9700-4af0-9df8-bb6449ccabfc.mp3",
-      "PackagePath": "staticwebassets\\audio\\output-935fcb9b-9700-4af0-9df8-bb6449ccabfc.mp3"
-    },
-    {
-      "Id": "C:\\Users\\NGUYEN DO ANH TAI\\GoogleTextToSpeechApp\\wwwroot\\audio\\output-9c4019b5-73c9-46af-9b64-e7c53c18ffe2.mp3",
-      "PackagePath": "staticwebassets\\audio\\output-9c4019b5-73c9-46af-9b64-e7c53c18ffe2.mp3"
-    },
-    {
-      "Id": "C:\\Users\\NGUYEN DO ANH TAI\\GoogleTextToSpeechApp\\wwwroot\\audio\\output-9d085fc0-dd78-4b03-a2b9-e377c0c0764e.mp3",
-      "PackagePath": "staticwebassets\\audio\\output-9d085fc0-dd78-4b03-a2b9-e377c0c0764e.mp3"
-    },
-    {
-      "Id": "C:\\Users\\NGUYEN DO ANH TAI\\GoogleTextToSpeechApp\\wwwroot\\audio\\output-9d82ac7f-3ba9-4612-ac67-a1bc5bd4686d.mp3",
-      "PackagePath": "staticwebassets\\audio\\output-9d82ac7f-3ba9-4612-ac67-a1bc5bd4686d.mp3"
-    },
-    {
-      "Id": "C:\\Users\\NGUYEN DO ANH TAI\\GoogleTextToSpeechApp\\wwwroot\\audio\\output-9f52b261-4ad3-4c7b-bc1b-8412123a3fc6.mp3",
-      "PackagePath": "staticwebassets\\audio\\output-9f52b261-4ad3-4c7b-bc1b-8412123a3fc6.mp3"
-    },
-    {
-      "Id": "C:\\Users\\NGUYEN DO ANH TAI\\GoogleTextToSpeechApp\\wwwroot\\audio\\output-a180e7ca-c61f-457b-9e6c-1aa45e18452f.mp3",
-      "PackagePath": "staticwebassets\\audio\\output-a180e7ca-c61f-457b-9e6c-1aa45e18452f.mp3"
-    },
-    {
-      "Id": "C:\\Users\\NGUYEN DO ANH TAI\\GoogleTextToSpeechApp\\wwwroot\\audio\\output-a89ab88f-256f-4eb6-8f57-e748c6fb2157.mp3",
-      "PackagePath": "staticwebassets\\audio\\output-a89ab88f-256f-4eb6-8f57-e748c6fb2157.mp3"
-    },
-    {
-      "Id": "C:\\Users\\NGUYEN DO ANH TAI\\GoogleTextToSpeechApp\\wwwroot\\audio\\output-a92b818b-a99e-4dad-9be0-a4408be3732f.mp3",
-      "PackagePath": "staticwebassets\\audio\\output-a92b818b-a99e-4dad-9be0-a4408be3732f.mp3"
-    },
-    {
-      "Id": "C:\\Users\\NGUYEN DO ANH TAI\\GoogleTextToSpeechApp\\wwwroot\\audio\\output-ac992090-1703-44e2-8603-2d34bb9fab22.mp3",
-      "PackagePath": "staticwebassets\\audio\\output-ac992090-1703-44e2-8603-2d34bb9fab22.mp3"
-    },
-    {
-      "Id": "C:\\Users\\NGUYEN DO ANH TAI\\GoogleTextToSpeechApp\\wwwroot\\audio\\output-ad139d64-d4ea-416a-ac65-ecf009d4445d.mp3",
-      "PackagePath": "staticwebassets\\audio\\output-ad139d64-d4ea-416a-ac65-ecf009d4445d.mp3"
-    },
-    {
-      "Id": "C:\\Users\\NGUYEN DO ANH TAI\\GoogleTextToSpeechApp\\wwwroot\\audio\\output-af402313-814c-4841-a725-a054955d995e.mp3",
-      "PackagePath": "staticwebassets\\audio\\output-af402313-814c-4841-a725-a054955d995e.mp3"
-    },
-    {
-      "Id": "C:\\Users\\NGUYEN DO ANH TAI\\GoogleTextToSpeechApp\\wwwroot\\audio\\output-b0c539fe-88be-4de0-96c3-6902d9714ef0.mp3",
-      "PackagePath": "staticwebassets\\audio\\output-b0c539fe-88be-4de0-96c3-6902d9714ef0.mp3"
-    },
-    {
-      "Id": "C:\\Users\\NGUYEN DO ANH TAI\\GoogleTextToSpeechApp\\wwwroot\\audio\\output-b1b67dfe-9b18-4703-9884-01d000ac79ff.mp3",
-      "PackagePath": "staticwebassets\\audio\\output-b1b67dfe-9b18-4703-9884-01d000ac79ff.mp3"
-    },
-    {
-      "Id": "C:\\Users\\NGUYEN DO ANH TAI\\GoogleTextToSpeechApp\\wwwroot\\audio\\output-b2a66fa5-dc07-4170-b9b2-b8d4858e235e.mp3",
-      "PackagePath": "staticwebassets\\audio\\output-b2a66fa5-dc07-4170-b9b2-b8d4858e235e.mp3"
-    },
-    {
-      "Id": "C:\\Users\\NGUYEN DO ANH TAI\\GoogleTextToSpeechApp\\wwwroot\\audio\\output-bb100614-f2bd-4680-9bf7-095c84ee57c8.mp3",
-      "PackagePath": "staticwebassets\\audio\\output-bb100614-f2bd-4680-9bf7-095c84ee57c8.mp3"
-    },
-    {
-      "Id": "C:\\Users\\NGUYEN DO ANH TAI\\GoogleTextToSpeechApp\\wwwroot\\audio\\output-bbf3afba-19a9-48da-a21f-10b5ca49afdd.mp3",
-      "PackagePath": "staticwebassets\\audio\\output-bbf3afba-19a9-48da-a21f-10b5ca49afdd.mp3"
-    },
-    {
-      "Id": "C:\\Users\\NGUYEN DO ANH TAI\\GoogleTextToSpeechApp\\wwwroot\\audio\\output-bc6716e5-7449-48cd-b342-5accc2ee5e18.mp3",
-      "PackagePath": "staticwebassets\\audio\\output-bc6716e5-7449-48cd-b342-5accc2ee5e18.mp3"
-    },
-    {
-      "Id": "C:\\Users\\NGUYEN DO ANH TAI\\GoogleTextToSpeechApp\\wwwroot\\audio\\output-cdab16a2-1321-4a0a-8f3d-7c4d7a263d20.mp3",
-      "PackagePath": "staticwebassets\\audio\\output-cdab16a2-1321-4a0a-8f3d-7c4d7a263d20.mp3"
-    },
-    {
-      "Id": "C:\\Users\\NGUYEN DO ANH TAI\\GoogleTextToSpeechApp\\wwwroot\\audio\\output-de62dd76-21c2-4cf4-88fa-4c4d4cc2728d.mp3",
-      "PackagePath": "staticwebassets\\audio\\output-de62dd76-21c2-4cf4-88fa-4c4d4cc2728d.mp3"
-    },
-    {
-      "Id": "C:\\Users\\NGUYEN DO ANH TAI\\GoogleTextToSpeechApp\\wwwroot\\audio\\output-e2c27ab8-7960-4d33-bfe7-603abf2080e6.mp3",
-      "PackagePath": "staticwebassets\\audio\\output-e2c27ab8-7960-4d33-bfe7-603abf2080e6.mp3"
-    },
-    {
-      "Id": "C:\\Users\\NGUYEN DO ANH TAI\\GoogleTextToSpeechApp\\wwwroot\\audio\\output-e85be723-6fe5-463f-a98e-7bad522cca6b.mp3",
-      "PackagePath": "staticwebassets\\audio\\output-e85be723-6fe5-463f-a98e-7bad522cca6b.mp3"
-    },
-    {
-      "Id": "C:\\Users\\NGUYEN DO ANH TAI\\GoogleTextToSpeechApp\\wwwroot\\audio\\output-ea455aa4-c7a0-469b-893f-61e40b30b1ac.mp3",
-      "PackagePath": "staticwebassets\\audio\\output-ea455aa4-c7a0-469b-893f-61e40b30b1ac.mp3"
-    },
-    {
-      "Id": "C:\\Users\\NGUYEN DO ANH TAI\\GoogleTextToSpeechApp\\wwwroot\\audio\\output-ea46e112-ec60-48b7-8729-739d852b126f.mp3",
-      "PackagePath": "staticwebassets\\audio\\output-ea46e112-ec60-48b7-8729-739d852b126f.mp3"
-    },
-    {
-      "Id": "C:\\Users\\NGUYEN DO ANH TAI\\GoogleTextToSpeechApp\\wwwroot\\audio\\output-ea9d06f7-5bf8-49f8-9bcc-495958c8c48a.mp3",
-      "PackagePath": "staticwebassets\\audio\\output-ea9d06f7-5bf8-49f8-9bcc-495958c8c48a.mp3"
-    },
-    {
-      "Id": "C:\\Users\\NGUYEN DO ANH TAI\\GoogleTextToSpeechApp\\wwwroot\\audio\\output-eaaef48f-9fb6-43b3-a735-3756fa4a2ca4.mp3",
-      "PackagePath": "staticwebassets\\audio\\output-eaaef48f-9fb6-43b3-a735-3756fa4a2ca4.mp3"
-    },
-    {
-      "Id": "C:\\Users\\NGUYEN DO ANH TAI\\GoogleTextToSpeechApp\\wwwroot\\audio\\output-eae38d7b-ce56-4211-bf2f-020cf4bdd26c.mp3",
-      "PackagePath": "staticwebassets\\audio\\output-eae38d7b-ce56-4211-bf2f-020cf4bdd26c.mp3"
-    },
-    {
-      "Id": "C:\\Users\\NGUYEN DO ANH TAI\\GoogleTextToSpeechApp\\wwwroot\\audio\\output-ed246d38-90ef-4bd5-bf86-8a16d685b2bf.mp3",
-      "PackagePath": "staticwebassets\\audio\\output-ed246d38-90ef-4bd5-bf86-8a16d685b2bf.mp3"
-    },
-    {
-      "Id": "C:\\Users\\NGUYEN DO ANH TAI\\GoogleTextToSpeechApp\\wwwroot\\audio\\output-f0d2df50-6acb-444e-8399-e819cefc5aee.mp3",
-      "PackagePath": "staticwebassets\\audio\\output-f0d2df50-6acb-444e-8399-e819cefc5aee.mp3"
-    },
-    {
-      "Id": "C:\\Users\\NGUYEN DO ANH TAI\\GoogleTextToSpeechApp\\wwwroot\\audio\\output-f6d52ba0-88d6-4a83-97f8-2bc2829d8938.mp3",
-      "PackagePath": "staticwebassets\\audio\\output-f6d52ba0-88d6-4a83-97f8-2bc2829d8938.mp3"
-    },
-    {
-      "Id": "C:\\Users\\NGUYEN DO ANH TAI\\GoogleTextToSpeechApp\\wwwroot\\audio\\output-f82d120e-c5ca-4037-8b91-91c15c77ccd1.mp3",
-      "PackagePath": "staticwebassets\\audio\\output-f82d120e-c5ca-4037-8b91-91c15c77ccd1.mp3"
-    },
-    {
-      "Id": "C:\\Users\\NGUYEN DO ANH TAI\\GoogleTextToSpeechApp\\wwwroot\\css\\home.css",
+      "Id": "D:\\GoogleTextToSpeechApp\\wwwroot\\css\\home.css",
       "PackagePath": "staticwebassets\\css\\home.css"
     },
     {
-      "Id": "C:\\Users\\NGUYEN DO ANH TAI\\GoogleTextToSpeechApp\\wwwroot\\css\\notelaifile.exe",
+      "Id": "D:\\GoogleTextToSpeechApp\\wwwroot\\css\\notelaifile.exe",
       "PackagePath": "staticwebassets\\css\\notelaifile.exe"
     },
     {
-      "Id": "C:\\Users\\NGUYEN DO ANH TAI\\GoogleTextToSpeechApp\\wwwroot\\css\\site.css",
+      "Id": "D:\\GoogleTextToSpeechApp\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\NGUYEN DO ANH TAI\\GoogleTextToSpeechApp\\wwwroot\\favicon.ico",
+      "Id": "D:\\GoogleTextToSpeechApp\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\NGUYEN DO ANH TAI\\GoogleTextToSpeechApp\\wwwroot\\js\\site.js",
+      "Id": "D:\\GoogleTextToSpeechApp\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\Users\\NGUYEN DO ANH TAI\\GoogleTextToSpeechApp\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "D:\\GoogleTextToSpeechApp\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\Users\\NGUYEN DO ANH TAI\\GoogleTextToSpeechApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "D:\\GoogleTextToSpeechApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\NGUYEN DO ANH TAI\\GoogleTextToSpeechApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "D:\\GoogleTextToSpeechApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\NGUYEN DO ANH TAI\\GoogleTextToSpeechApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "D:\\GoogleTextToSpeechApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\NGUYEN DO ANH TAI\\GoogleTextToSpeechApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "D:\\GoogleTextToSpeechApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\NGUYEN DO ANH TAI\\GoogleTextToSpeechApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "D:\\GoogleTextToSpeechApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Users\\NGUYEN DO ANH TAI\\GoogleTextToSpeechApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "D:\\GoogleTextToSpeechApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\NGUYEN DO ANH TAI\\GoogleTextToSpeechApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "D:\\GoogleTextToSpeechApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\NGUYEN DO ANH TAI\\GoogleTextToSpeechApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "D:\\GoogleTextToSpeechApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\NGUYEN DO ANH TAI\\GoogleTextToSpeechApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "D:\\GoogleTextToSpeechApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\NGUYEN DO ANH TAI\\GoogleTextToSpeechApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "D:\\GoogleTextToSpeechApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\NGUYEN DO ANH TAI\\GoogleTextToSpeechApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "D:\\GoogleTextToSpeechApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\NGUYEN DO ANH TAI\\GoogleTextToSpeechApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "D:\\GoogleTextToSpeechApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\NGUYEN DO ANH TAI\\GoogleTextToSpeechApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "D:\\GoogleTextToSpeechApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Users\\NGUYEN DO ANH TAI\\GoogleTextToSpeechApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "D:\\GoogleTextToSpeechApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\NGUYEN DO ANH TAI\\GoogleTextToSpeechApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "D:\\GoogleTextToSpeechApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\NGUYEN DO ANH TAI\\GoogleTextToSpeechApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "D:\\GoogleTextToSpeechApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\NGUYEN DO ANH TAI\\GoogleTextToSpeechApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "D:\\GoogleTextToSpeechApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Users\\NGUYEN DO ANH TAI\\GoogleTextToSpeechApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "D:\\GoogleTextToSpeechApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Users\\NGUYEN DO ANH TAI\\GoogleTextToSpeechApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "D:\\GoogleTextToSpeechApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Users\\NGUYEN DO ANH TAI\\GoogleTextToSpeechApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "D:\\GoogleTextToSpeechApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Users\\NGUYEN DO ANH TAI\\GoogleTextToSpeechApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "D:\\GoogleTextToSpeechApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Users\\NGUYEN DO ANH TAI\\GoogleTextToSpeechApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "D:\\GoogleTextToSpeechApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\NGUYEN DO ANH TAI\\GoogleTextToSpeechApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "D:\\GoogleTextToSpeechApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\NGUYEN DO ANH TAI\\GoogleTextToSpeechApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "D:\\GoogleTextToSpeechApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\NGUYEN DO ANH TAI\\GoogleTextToSpeechApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "D:\\GoogleTextToSpeechApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\NGUYEN DO ANH TAI\\GoogleTextToSpeechApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "D:\\GoogleTextToSpeechApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\NGUYEN DO ANH TAI\\GoogleTextToSpeechApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "D:\\GoogleTextToSpeechApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\NGUYEN DO ANH TAI\\GoogleTextToSpeechApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "D:\\GoogleTextToSpeechApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\NGUYEN DO ANH TAI\\GoogleTextToSpeechApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "D:\\GoogleTextToSpeechApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Users\\NGUYEN DO ANH TAI\\GoogleTextToSpeechApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "D:\\GoogleTextToSpeechApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\NGUYEN DO ANH TAI\\GoogleTextToSpeechApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "D:\\GoogleTextToSpeechApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\NGUYEN DO ANH TAI\\GoogleTextToSpeechApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "D:\\GoogleTextToSpeechApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\NGUYEN DO ANH TAI\\GoogleTextToSpeechApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "D:\\GoogleTextToSpeechApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\NGUYEN DO ANH TAI\\GoogleTextToSpeechApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "D:\\GoogleTextToSpeechApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\NGUYEN DO ANH TAI\\GoogleTextToSpeechApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "D:\\GoogleTextToSpeechApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\NGUYEN DO ANH TAI\\GoogleTextToSpeechApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "D:\\GoogleTextToSpeechApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\NGUYEN DO ANH TAI\\GoogleTextToSpeechApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "D:\\GoogleTextToSpeechApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Users\\NGUYEN DO ANH TAI\\GoogleTextToSpeechApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "D:\\GoogleTextToSpeechApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Users\\NGUYEN DO ANH TAI\\GoogleTextToSpeechApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "D:\\GoogleTextToSpeechApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Users\\NGUYEN DO ANH TAI\\GoogleTextToSpeechApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "D:\\GoogleTextToSpeechApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Users\\NGUYEN DO ANH TAI\\GoogleTextToSpeechApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "D:\\GoogleTextToSpeechApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\NGUYEN DO ANH TAI\\GoogleTextToSpeechApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "D:\\GoogleTextToSpeechApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\NGUYEN DO ANH TAI\\GoogleTextToSpeechApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "D:\\GoogleTextToSpeechApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\NGUYEN DO ANH TAI\\GoogleTextToSpeechApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "D:\\GoogleTextToSpeechApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\NGUYEN DO ANH TAI\\GoogleTextToSpeechApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "D:\\GoogleTextToSpeechApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\NGUYEN DO ANH TAI\\GoogleTextToSpeechApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "D:\\GoogleTextToSpeechApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\NGUYEN DO ANH TAI\\GoogleTextToSpeechApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "D:\\GoogleTextToSpeechApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\NGUYEN DO ANH TAI\\GoogleTextToSpeechApp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "D:\\GoogleTextToSpeechApp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\NGUYEN DO ANH TAI\\GoogleTextToSpeechApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "D:\\GoogleTextToSpeechApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\NGUYEN DO ANH TAI\\GoogleTextToSpeechApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "D:\\GoogleTextToSpeechApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\NGUYEN DO ANH TAI\\GoogleTextToSpeechApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "D:\\GoogleTextToSpeechApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\NGUYEN DO ANH TAI\\GoogleTextToSpeechApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "D:\\GoogleTextToSpeechApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\NGUYEN DO ANH TAI\\GoogleTextToSpeechApp\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "D:\\GoogleTextToSpeechApp\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\NGUYEN DO ANH TAI\\GoogleTextToSpeechApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "D:\\GoogleTextToSpeechApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\NGUYEN DO ANH TAI\\GoogleTextToSpeechApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "D:\\GoogleTextToSpeechApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\NGUYEN DO ANH TAI\\GoogleTextToSpeechApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "D:\\GoogleTextToSpeechApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {

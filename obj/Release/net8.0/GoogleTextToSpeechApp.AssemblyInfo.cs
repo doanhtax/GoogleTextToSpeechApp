@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GoogleTextToSpeechApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fbf43ee49fcce6a86eb5611141019067410f7c9a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b37be2d18f7fafc21c0cd9d8da33c05afc3b0d54")]
 [assembly: System.Reflection.AssemblyProductAttribute("GoogleTextToSpeechApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GoogleTextToSpeechApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
