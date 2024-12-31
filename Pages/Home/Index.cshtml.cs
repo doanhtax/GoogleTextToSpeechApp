@@ -114,7 +114,7 @@ namespace GoogleTextToSpeechApp.Pages.Home
         public IActionResult OnPostConvertText()
         {
             // Lấy chuỗi JSON của credentials từ biến môi trường
-            string? credentialsJson = Environment.GetEnvironmentVariable("GOOGLE_CREDENTIALS_JSON");
+            string? credentialsJson = Environment.GetEnvironmentVariable("GOOGLE_APPLICATION_CREDENTIALS");
 
             // Kiểm tra nếu credentialsJson là null hoặc rỗng
             if (string.IsNullOrEmpty(credentialsJson))
